@@ -11,6 +11,7 @@ Call out attacks from Parquina's Nest both NORMAL MODE & HARD MODE
 Please report any issues to me either here or on discord :)
 
 # Commands 
+- !nest or !gv
 - !nest to toggle module (DEFAULT: ON)
 - !nest toparty to toggle party notice (DEFAULT: SELF ONLY (In notice chat))
 - !nest toparty stream - to toggle messages being sent only to proxy channel, also disables itemhelp (DEFAULT: OFF)
@@ -23,6 +24,7 @@ Please report any issues to me either here or on discord :)
 - Circles 
 - Speed of jumps
 - Pizza
+- Stuns
 
 **2nd Boss:**
 - Back attack
